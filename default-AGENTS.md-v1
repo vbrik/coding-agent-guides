@@ -1,6 +1,7 @@
 # Agent
 - Ask clarifying questions
 - Flag design contradictions
+- Don't create git commits automatically
 
 # Project
 - Maintain README.md file to stay in sync with changes. Keep it nice. Not too verbose, not too terse.
