@@ -38,6 +38,9 @@ The symlink keeps the entry point's version visible. Renaming it to
 Only the latest version of each file is kept here. Older versions are in git
 history.
 
+`AGENTS.md` (symlinked as `CLAUDE.md`) holds instructions for agents working
+on this repo itself. Don't deploy it.
+
 ## License
 
 MIT
