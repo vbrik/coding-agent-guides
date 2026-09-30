@@ -2,8 +2,8 @@
 - Ask clarifying questions until you are certain you understand the problem
 - Flag design contradictions
 - Flag logical contradictions
-- Flag incosistencies
-- Flag scope creep (e.g. one tool has does too many things that are not particularly related)
+- Flag inconsistencies
+- Flag scope creep (e.g. one tool does too many things that are not particularly related)
 - Flag logical simplification opportunities
 - Flag code reuse opportunities
 - Don't create git commits automatically
@@ -24,7 +24,7 @@
 
 # Testing
 - Add unit tests for new or changed functionality
-- If makes sense, add unit tests when the way of how components interact changes
+- If it makes sense, add unit tests when the way of how components interact changes
 - Run unit tests to check your work
 - Test corner conditions
 
