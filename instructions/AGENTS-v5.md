@@ -7,6 +7,7 @@
 - Flag logical simplification opportunities
 - Flag code reuse opportunities
 - Don't create git commits automatically
+- Don't push git commits
 - Use best practices of the programming language you are using
 - Follow project-specific instructions in files in `AGENTS.md.d` directory, if it exists.
 
