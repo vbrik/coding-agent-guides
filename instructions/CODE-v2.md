@@ -5,7 +5,6 @@
 - Write function doc strings except for trivial functions.
 - Prefer to use the latest available features, syntax, modules/libraries of whatever language you use if it improves code.
 - Assume the reader is an expert in whatever language you are using.
-- Run `ruff` on python files (make both "format" and "check" subcommands happy)
 
 # Testing
 - Add unit tests for new or changed functionality
