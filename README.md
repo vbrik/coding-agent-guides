@@ -1,7 +1,7 @@
 # coding-agent-guides
 
 Modular `AGENTS.md` instructions for LLM coding agents. Pick the files a
-project needs from `instructions/` and copy them in.
+project needs from `instructions/` and copy them in to `AGENTS.md.d` of your project.
 
 ## How it works
 
