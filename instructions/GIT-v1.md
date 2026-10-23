@@ -1,5 +1,5 @@
 # Git
-- Don't create git branches.
+- Don't create git branches except for subagent-driven builds.
 
 ## Git commit messages
 - In *addition* to normal stuff that goes into commit message bodies
